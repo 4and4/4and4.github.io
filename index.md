@@ -6,6 +6,9 @@ The Milo IDE is a web based platform targetted at students who wish to learn con
 * Arjun Rao [Github](github.com/arjun-rao)
 * Ayush Bihani [Github](github.com/ayushbihani)
 
+# License
+All code related to this project will eventually be released under the Apache 2.0 License - see respective repositories for details.
+
 # Project Structure
 
 The entire project is split across the repositories described below. We will be updating this page shortly with more details.
