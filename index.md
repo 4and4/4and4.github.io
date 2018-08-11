@@ -3,8 +3,8 @@
 The Milo IDE is a web based platform targetted at students who wish to learn concepts of Machine Learning and Linear Algebra, with no prior programming experience. The IDE is designed to support introductory level Data Science, ML and Linear Algebra courses typically taught at undergraduate programs. 
 
 # Authors
-* Arjun Rao [Github](github.com/arjun-rao)
-* Ayush Bihani [Github](github.com/ayushbihani)
+* Arjun Rao [Github](https://github.com/arjun-rao)
+* Ayush Bihani [Github](https://github.com/ayushbihani)
 
 # License
 All code related to this project will eventually be released under the Apache 2.0 License - see respective repositories for details.
